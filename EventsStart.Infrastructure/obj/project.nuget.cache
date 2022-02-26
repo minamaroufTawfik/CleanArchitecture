@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4HovSaP+k/Ij+xOjCWWtZfogfNSe+27JC18uNtv29igNqVx2+ytCzjoUW26TQ/JnXP6hj/los9F05tbtThl/Dg==",
+  "success": true,
+  "projectFilePath": "E:\\Test_Apps\\EventsStar\\EventsStart.Infrastructure\\EventsStart.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

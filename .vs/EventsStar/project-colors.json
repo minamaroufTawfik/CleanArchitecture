@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8eefa4c2-8d81-4c71-9f63-9a73b429635e": {
+      "ProjectGuid": "8eefa4c2-8d81-4c71-9f63-9a73b429635e",
+      "DisplayName": "EventsStar",
+      "ColorIndex": 0
+    },
+    "ff087d50-39be-45f6-9be9-16ebe3f70321": {
+      "ProjectGuid": "ff087d50-39be-45f6-9be9-16ebe3f70321",
+      "DisplayName": "EventsStar.Application",
+      "ColorIndex": 1
+    },
+    "7f4c5c64-a292-4788-8621-375555520e32": {
+      "ProjectGuid": "7f4c5c64-a292-4788-8621-375555520e32",
+      "DisplayName": "EventsStar.Application.Contracts",
+      "ColorIndex": 2
+    },
+    "db948b2b-f0a1-432d-960d-5ec5c279f3c2": {
+      "ProjectGuid": "db948b2b-f0a1-432d-960d-5ec5c279f3c2",
+      "DisplayName": "EventsStar.DbMigrator",
+      "ColorIndex": 3
+    },
+    "b9e6b033-57f0-4a7a-b7b6-908514d7f555": {
+      "ProjectGuid": "b9e6b033-57f0-4a7a-b7b6-908514d7f555",
+      "DisplayName": "EventsStar.Domain",
+      "ColorIndex": 4
+    },
+    "ab750f5d-234d-4337-aaa2-6e0c80f11649": {
+      "ProjectGuid": "ab750f5d-234d-4337-aaa2-6e0c80f11649",
+      "DisplayName": "EventsStar.Domain.Shared",
+      "ColorIndex": 5
+    },
+    "6d57bd59-f313-49aa-87ba-716bc4918d50": {
+      "ProjectGuid": "6d57bd59-f313-49aa-87ba-716bc4918d50",
+      "DisplayName": "EventsStar.EntityFrameworkCore",
+      "ColorIndex": 6
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "ca98da62-758c-437b-988c-c03b117a4200": {
+      "ProjectGuid": "ca98da62-758c-437b-988c-c03b117a4200",
+      "DisplayName": "EventsStart.Infrastructure",
+      "ColorIndex": 7
+    },
+    "801554ec-d9da-4e51-a88e-84967c82f8a5": {
+      "ProjectGuid": "801554ec-d9da-4e51-a88e-84967c82f8a5",
+      "DisplayName": "Docs",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}

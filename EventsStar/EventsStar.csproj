@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EventsStar.Application\EventsStar.Application.csproj" />
+    <ProjectReference Include="..\EventsStar.Domain\EventsStar.Domain.csproj" />
+    <ProjectReference Include="..\EventsStar.EntityFrameworkCore\EventsStar.EntityFrameworkCore.csproj" />
+    <ProjectReference Include="..\EventsStart.Infrastructure\EventsStart.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

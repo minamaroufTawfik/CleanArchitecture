@@ -1,0 +1,12 @@
+E:\Test_Apps\EventsStar\EventsStar.Domain.Shared\bin\Debug\net6.0\EventsStar.Domain.Shared.deps.json
+E:\Test_Apps\EventsStar\EventsStar.Domain.Shared\bin\Debug\net6.0\EventsStar.Domain.Shared.dll
+E:\Test_Apps\EventsStar\EventsStar.Domain.Shared\bin\Debug\net6.0\ref\EventsStar.Domain.Shared.dll
+E:\Test_Apps\EventsStar\EventsStar.Domain.Shared\bin\Debug\net6.0\EventsStar.Domain.Shared.pdb
+E:\Test_Apps\EventsStar\EventsStar.Domain.Shared\obj\Debug\net6.0\EventsStar.Domain.Shared.csproj.AssemblyReference.cache
+E:\Test_Apps\EventsStar\EventsStar.Domain.Shared\obj\Debug\net6.0\EventsStar.Domain.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\Test_Apps\EventsStar\EventsStar.Domain.Shared\obj\Debug\net6.0\EventsStar.Domain.Shared.AssemblyInfoInputs.cache
+E:\Test_Apps\EventsStar\EventsStar.Domain.Shared\obj\Debug\net6.0\EventsStar.Domain.Shared.AssemblyInfo.cs
+E:\Test_Apps\EventsStar\EventsStar.Domain.Shared\obj\Debug\net6.0\EventsStar.Domain.Shared.csproj.CoreCompileInputs.cache
+E:\Test_Apps\EventsStar\EventsStar.Domain.Shared\obj\Debug\net6.0\EventsStar.Domain.Shared.dll
+E:\Test_Apps\EventsStar\EventsStar.Domain.Shared\obj\Debug\net6.0\ref\EventsStar.Domain.Shared.dll
+E:\Test_Apps\EventsStar\EventsStar.Domain.Shared\obj\Debug\net6.0\EventsStar.Domain.Shared.pdb
